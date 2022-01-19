@@ -32,7 +32,7 @@ Here, I'll keep a list of things I've learnt throughout the whole process.
 * Day 7: median is the fastest for crab moving. med = X[len(X) // 2]
 * Day 6: counter class.
 * Day 5: min, max for easy direction handling. flatten() and transpose() are two useful numpy functions!
-* Day 4: 3D array for boards and Board classes in Python :0 
+* Day 4: 3D array for boards and Board classes in Python :0. Initialising a 3D array calls for **list comprehension**
 * Day 3: list comprehension best way. Use the filter function if needed
 * Day 1: list comprehension directly from input: [int(x) for x in inputList]
 
